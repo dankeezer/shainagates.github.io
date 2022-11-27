@@ -1,1 +1,0 @@
-# shainagates.github.io
