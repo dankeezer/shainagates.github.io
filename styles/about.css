@@ -1,8 +1,20 @@
-body {
-  @font-face {
-    font-family: 'Avenir Next Ultra Light';
-    src: url(fonts/AvenirNext-UltraLight.woff);
-  }
+@font-face {
+  font-family: 'Avenir Next Ultra Light';
+  src: url(fonts/AvenirNext-UltraLight.woff) format('WOFF');
+}
 
+@font-face {
+  font-family: 'Avenir Next Ultra Light Italic';
+  font-weight: italic;
+  src: url(fonts/AvenirNext-UltraLightItalic.woff) format('WOFF');
+}
+
+@font-face {
+  font-family: 'Avenir Next Bold';
+  font-weight: bold;
+  src: url(fonts/AvenirNext-BOld.woff) format('WOFF');
+}
+
+body {
   font-family: 'Avenir Next Ultra Light', Helvetica, Arial, sans-serif;
 }
