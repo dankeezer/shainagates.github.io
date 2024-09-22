@@ -1,3 +1,5 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) { * { -webkit-text-size-adjust: none; } }
+
 @font-face {
   font-family: 'Avenir Next Ultra Light';
   src: url(fonts/AvenirNext-UltraLight.woff) format('WOFF');
