@@ -35,3 +35,8 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+
+h2 {
+  font-family: 'Avenir Next Ultra Light', Helvetica, Arial, sans-serif;
+  font-size: 18pt;
+}
