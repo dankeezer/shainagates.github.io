@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Avenir Next Ultra Light';
+  src: url(fonts/AvenirNext-UltraLight.woff) format('WOFF');
+}
+
+@font-face {
+  font-family: 'Avenir Next Ultra Light Italic';
+  font-weight: italic;
+  src: url(fonts/AvenirNext-UltraLightItalic.woff) format('WOFF');
+}
+
+@font-face {
+  font-family: 'Avenir Next Bold';
+  font-weight: bold;
+  src: url(fonts/AvenirNext-BOld.woff) format('WOFF');
+}
+
+body {
+  font-family: 'Avenir Next Ultra Light', Helvetica, Arial, sans-serif;
+  margin: 5%;
+}
+
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
