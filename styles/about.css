@@ -1,8 +1,8 @@
-@font-face {
-  font-family: avenirNext;
-  src: url(Avenir Next.ttc);
-}
-
 body {
-  font-family: avenirNext, Helvetica, Arial, sans-serif;
+  @font-face {
+    font-family: 'Avenir Next Ultra Light';
+    src: url(fonts/AvenirNext-UltraLight.woff);
+  }
+
+  font-family: 'Avenir Next Ultra Light', Helvetica, Arial, sans-serif;
 }
