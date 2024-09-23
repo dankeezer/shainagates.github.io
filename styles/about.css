@@ -36,7 +36,7 @@ a:active {
   text-decoration: none;
 }
 
-/*h2 {
-  font-family: 'Avenir Next Ultra Light', Helvetica, Arial, sans-serif;
+h2 {
+  font-weight:500;
   font-size: 18pt;
-}*/
+}
