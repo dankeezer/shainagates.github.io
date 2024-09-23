@@ -36,6 +36,8 @@ a:active {
   text-decoration: none;
 }
 
-h2 {
+.heading {
   font-weight:300;
+  font-size: 18pt;
+  line-height: 40pt;
 }
