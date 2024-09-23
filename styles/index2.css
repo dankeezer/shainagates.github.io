@@ -39,7 +39,8 @@ a:active {
   text-decoration: none;
 }
 
-h2 {
-  font-family: 'Avenir Next Ultra Light', Helvetica, Arial, sans-serif;
+.heading {
+  font-weight:300;
   font-size: 18pt;
+  line-height: 40pt;
 }
