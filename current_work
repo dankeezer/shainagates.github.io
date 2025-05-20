@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SHAINA GATES - current work</title>
+
+  <link rel="stylesheet" type="text/css" href="styles/vertical_gallery.css"/>
+</head>
+
+<body>
+  <span class="heading">SHAINA GATES - Current work</span></div></br>
+  <p>
+
+  <div id="archive">
+    <ul>
+      <li>
+        <img src="images/archive/01_archive.jpg">
+        Text Caption</p>
+      </li>
+
+      <li>
+        <img src="images/archive/02_archive.jpg">
+        Text Caption</p>
+      </li>
+
+      <li>
+        <img src="images/archive/03_archive.jpg">
+        Text Caption</p>
+      </li>
+
+      <li>
+        <img src="images/archive/04_archive.jpg">
+        </p>
+      </li>
+
+      <li>
+        <img src="images/archive/05_archive.jpg">
+        Text Caption</p>
+      </li>
+
+      <li>
+        <img src="images/archive/06_archive.jpg">
+        Text Caption</p>
+      </li>
+
+      <li>
+        <img src="images/archive/07_archive.jpg">
+        Text Caption</p>
+      </li>
+    </ul>
+  </div>
+</body>
